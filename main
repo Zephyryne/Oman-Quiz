@@ -1,0 +1,14 @@
+{ "Om": [
+        { "question": "Guess the governorate", "answer": ["Ad Dakhiliyah", "Ad-Dāḫilīyah", "Ad Dāḫilīyah"], "image_url": "https://raw.githubusercontent.com/Zephyryne/Oman-Quiz/refs/heads/main/OM01.png"},
+        { "question": "Guess the governorate", "answer": ["Al Dhahirah", "Aẓ-Ẓāhirah", "Aẓ Ẓāhirah"], "image_url": "https://raw.githubusercontent.com/Zephyryne/Oman-Quiz/refs/heads/main/OM02.png"},
+        { "question": "Guess the governorate", "answer": ["Al Batinah North", "Šamāl al-Bāṭinah", "Šamāl al Bāṭinah"], "image_url": "https://raw.githubusercontent.com/Zephyryne/Oman-Quiz/refs/heads/main/OM03.png"},
+        { "question": "Guess the governorate", "answer": ["Al Batinah South", "Ǧanūb al-Bāṭinah", "Ǧanūb al Bāṭinah"], "image_url": "https://raw.githubusercontent.com/Zephyryne/Oman-Quiz/refs/heads/main/OM04.png"},
+        { "question": "Guess the governorate", "answer": ["Al Buraimi", "Al-Buraimī"], "image_url": "https://raw.githubusercontent.com/Zephyryne/Oman-Quiz/refs/heads/main/OM05.png"},
+        { "question": "Guess the governorate", "answer": ["Al Wusta", "Al-Wusṭā"], "image_url": "https://raw.githubusercontent.com/Zephyryne/Oman-Quiz/refs/heads/main/OM06.png"},
+        { "question": "Guess the governorate", "answer": ["Ash Sharqiyah North", "Šamāl aš-Šarqīyah", "Šamāl aš Šarqīyah"], "image_url": "https://raw.githubusercontent.com/Zephyryne/Oman-Quiz/refs/heads/main/OM07.png"},
+        { "question": "Guess the governorate", "answer": ["Ash Sharqiyah South", "Janūb aš-Šarqīyah", "Janūb aš Šarqīyah"], "image_url": "https://raw.githubusercontent.com/Zephyryne/Oman-Quiz/refs/heads/main/OM08.png"},
+        { "question": "Guess the governorate", "answer": ["Dhofar", "Ẓuffār"], "image_url": "https://raw.githubusercontent.com/Zephyryne/Oman-Quiz/refs/heads/main/OM09.png"},
+        { "question": "Guess the governorate", "answer": ["Muscat"], "image_url": "https://raw.githubusercontent.com/Zephyryne/Oman-Quiz/refs/heads/main/OM10.png"},
+        { "question": "Guess the governorate", "answer": ["Musandam"], "image_url": "https://raw.githubusercontent.com/Zephyryne/Oman-Quiz/refs/heads/main/OM11.png"}
+    ]
+}
